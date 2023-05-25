@@ -1,0 +1,42 @@
+.main{
+  margin-left: 80px;
+  text-align: start;
+  margin-top:30px ;
+  border: 1px  #b5b2b1;
+  margin-right: 80px;
+  border-radius: 20px;
+}
+.flex_row{
+  justify-content: flex-start;
+  display: flex;
+  padding-top: 20px;
+}
+
+.thumbnail{
+padding-left: 20px;
+}
+.clicked{
+border: 5px solid black;
+}
+.image_para{
+  display: flex;
+}
+.text_para{
+margin-left: 70px;
+margin-top: 40px;
+}
+.image{
+  max-height: 500px;
+  max-width: 700px;
+  border-radius: 40px;
+}
+h4{
+  color: darkorange;
+}
+h3{
+  font-weight: bolder;
+  font-size: xx-large;
+}
+.para{
+  color:#648782;
+}
